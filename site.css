@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    width: 300px;
+    height: 100px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(29, 29, 29);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+button{
+    width: 50px;
+    height: 30px;
+    border: none;
+    background-color: rgb(196, 196, 196);
+    color: grey;
+}
