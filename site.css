@@ -7,7 +7,7 @@ div{
     width: 300px;
     height: 100px;
     border-radius: 10px 10px 10px 10px;
-    background-color: rgb(17, 57, 203);
+    background-color: rgb(16, 57, 203);
     display: flex;
     justify-content: center;
     align-items: center;
